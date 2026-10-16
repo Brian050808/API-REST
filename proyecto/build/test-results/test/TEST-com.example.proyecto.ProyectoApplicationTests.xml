@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.proyecto.ProyectoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-13T18:31:56.953Z" hostname="brai-Dell-15-DC15255" time="2.389">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.proyecto.ProyectoApplicationTests" time="0.624"/>
+  <system-out><![CDATA[12:31:57.160 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.proyecto.ProyectoApplicationTests]: ProyectoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:31:57.323 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.proyecto.ProyectoApplication for test class com.example.proyecto.ProyectoApplicationTests
+12:31:57.418 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.proyecto.ProyectoApplicationTests]: ProyectoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:31:57.420 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.proyecto.ProyectoApplication for test class com.example.proyecto.ProyectoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.1)
+
+2026-10-13T12:31:57.736-06:00  INFO 17400 --- [proyecto] [    Test worker] c.e.proyecto.ProyectoApplicationTests    : Starting ProyectoApplicationTests using Java 17.0.20.1 with PID 17400 (started by brai in /home/brai/Documentos/proyecto)
+2026-10-13T12:31:57.738-06:00  INFO 17400 --- [proyecto] [    Test worker] c.e.proyecto.ProyectoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2026-10-13T12:31:58.703-06:00  INFO 17400 --- [proyecto] [    Test worker] c.e.proyecto.ProyectoApplicationTests    : Started ProyectoApplicationTests in 1.217 seconds (process running for 2.811)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
